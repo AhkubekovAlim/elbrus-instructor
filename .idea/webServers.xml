@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="021b3b59-c682-4651-8715-02a08ec80add" name="elbrus-instructor" url="http://elbrus-instructor.ru">
+        <fileTransfer host="elbrus-instructor.ru" port="21" rootFolder="/domains/elbrus-instructor.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
