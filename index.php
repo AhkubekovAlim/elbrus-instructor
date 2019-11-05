@@ -57,49 +57,6 @@ require $_SERVER['DOCUMENT_ROOT'].'/header.php';
         </div>
     </div>
 
-    <!--Main Slider-->
-    <div class="container">
-        <div class="section">
-            <h1><b><a href="/tracking/"><span class="green-text underline">Походы. Трекинг по Приэльбрусью:</span></a></b> Юсенги, Ирик, Терскол, Бука-башы. <br>
-                <b>Набираем группу</b>.
-            </h1>
-        </div>
-    </div>
-    
-    <div class="container">
-        <div class="section">
-            <div class="row">
-                <div class="col s12 m6">
-                    <div class="main-tracking-slider">
-                        <img src="/img/tracking.jpg" >
-                        <img src="/img/tracking2.jpg">
-                    </div>
-                </div>
-                <div class="col s12 m6  main-info">
-                    <b>Организуем туры выходного дня.</b><br>
-                    Баксанское, Чегемское,Черекское ущелья.<br>
-                    <b>Цена</b> за экскурсию <span class="green-text text-darken-2"><b>1000 руб.с человека</b></span><br>
-                    <b>Трекинг:</b> день - <span class="green-text text-darken-2"><b>5 тысяч с группы до 10 человек</b></span>
-                    <br>
-                    <span class="brown-text text-darken-2"><b>Все подробности по телефонам:</b></span><br>
-                    <a href="tel:+79280829701" class="phone">+7&nbsp;928&nbsp;082&nbsp;97&nbsp;01&nbsp;(Эди)</a>,<br>
-                    <a href="tel:+79280848238" class="phone">+7&nbsp;928&nbsp;084&nbsp;82&nbsp;38&nbsp;(Светлана)</a><br>
-                    WhatsUpp: <a href="https://api.whatsapp.com/send?phone=79280848238" class="phone green-text">+7&nbsp;928&nbsp;084&nbsp;82&nbsp;38&nbsp;(Светлана)</a>
-                    <br>
-                    <a href="mailto:akhmatova-85@mail.ru" target="_blank">
-                        <i class="material-icons valign black-text">mail</i> email: <b>akhmatova-85@mail.ru</b></a>
-                    <br>
-                    <a href="https://www.instagram.com/svetlana_akhmatova_/" target="_blank">
-                        <img src="/img/instagram_icon.png" class="instagram valign" alt="">
-                        instagram: <b>svetlana_akhmatova_</b>
-                    </a><br>
-                    <a href="/tracking/" class="more-link">Смотреть подробнее</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-
     <div class="container">
         <div class="section">
 
@@ -123,7 +80,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/header.php';
 
                         <p class="light">
                             Если вам необходима помощь с поиском жилья и размещением, мы поможем найти
-                            место/номер по цене от <b>500&nbsp;до&nbsp;2&nbsp;000&nbsp;руб/сутки</b> с человека
+                            место/номер по цене от <b>1000&nbsp;руб/сутки</b> с человека
                         </p>
                     </div>
                 </div>
@@ -236,8 +193,25 @@ require $_SERVER['DOCUMENT_ROOT'].'/header.php';
     </div>
 
     <div class="container">
-        <div class="section">
+        <div class="section instructor">
             <h4 class="center-align">Наши инструкторы</h4> <br>
+            <div class="row">
+                <div class="col m4">
+                    <img class="materialboxed responsive-img" src="/img/instructor-Edi-1.jpeg"
+                         alt="Эди" title="Эди"
+                         data-caption="Ахматов Ибрагим Ахматович (Эди)">
+                </div>
+                <div class="col m4 hide-on-small-only">
+                    <img class="materialboxed responsive-img" src="/img/instructor-Edi-2.jpeg"
+                         alt="Эди" title="Эди"
+                         data-caption="Ахматов Ибрагим Ахматович (Эди)">
+                </div>
+                <div class="col m4">
+                    <img class="materialboxed responsive-img" src="/img/instructor-Edi-3.jpeg"
+                         alt="Эди" title="Эди"
+                         data-caption="Ахматов Ибрагим Ахматович (Эди)">
+                </div>
+            </div>
             <div class="row">
                 <div class="col s6 m3 l2 offset-m2 offset-l3">
                     <img class="materialboxed responsive-img" src="/img/instructor-Edi-m.png"
@@ -288,6 +262,49 @@ require $_SERVER['DOCUMENT_ROOT'].'/header.php';
                     <div class="row">
                         <div class="col s12 instructor-name"><b>Джаппуев Ибрагим Хаджидаудович</b></div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!--Main Slider-->
+    <div class="container">
+        <div class="section">
+            <h1><b><a href="/tracking/"><span class="green-text underline">Походы. Трекинг по Приэльбрусью:</span></a></b> Юсенги, Ирик, Терскол, Бука-башы. <br>
+                <b>Набираем группу</b>.
+            </h1>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <div class="col s12 m6">
+                    <div class="main-tracking-slider">
+                        <img src="/img/tracking.jpg" >
+                        <img src="/img/tracking2.jpg">
+                    </div>
+                </div>
+                <div class="col s12 m6  main-info">
+                    <b>Организуем туры выходного дня.</b><br>
+                    Баксанское, Чегемское,Черекское ущелья.<br>
+                    <b>Цена</b> за экскурсию <span class="green-text text-darken-2"><b>1000 руб.с человека</b></span><br>
+                    <b>Трекинг:</b> день - <span class="green-text text-darken-2"><b>5 тысяч с группы до 10 человек</b></span>
+                    <br>
+                    <span class="brown-text text-darken-2"><b>Все подробности по телефонам:</b></span><br>
+                    <a href="tel:+79280829701" class="phone">+7&nbsp;928&nbsp;082&nbsp;97&nbsp;01&nbsp;(Эди)</a>,<br>
+                    <a href="tel:+79280848238" class="phone">+7&nbsp;928&nbsp;084&nbsp;82&nbsp;38&nbsp;(Светлана)</a><br>
+                    WhatsUpp: <a href="https://api.whatsapp.com/send?phone=79280848238" class="phone green-text">+7&nbsp;928&nbsp;084&nbsp;82&nbsp;38&nbsp;(Светлана)</a>
+                    <br>
+                    <a href="mailto:akhmatova-85@mail.ru" target="_blank">
+                        <i class="material-icons valign black-text">mail</i> email: <b>akhmatova-85@mail.ru</b></a>
+                    <br>
+                    <a href="https://www.instagram.com/svetlana_akhmatova_/" target="_blank">
+                        <img src="/img/instagram_icon.png" class="instagram valign" alt="">
+                        instagram: <b>svetlana_akhmatova_</b>
+                    </a><br>
+                    <a href="/tracking/" class="more-link">Смотреть подробнее</a>
                 </div>
             </div>
         </div>

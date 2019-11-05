@@ -193,6 +193,10 @@ a[rel=photo_group] img{
     margin-top: 20px;
 }
 
+.instructor .col{
+    margin-bottom: 20px;
+}
+
 @media (max-width: 1200px){
     .main-info{
         margin: 0;
