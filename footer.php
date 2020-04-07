@@ -23,8 +23,8 @@
                          <b>instruktorelbr</b>
                     </a>
                     <span class="white-text">или </span>
-                    <a class="white-text" href="https://www.instagram.com/svetlana_akhmatova_/" target="_blank">
-                        <b>svetlana_akhmatova_</b>
+                    <a class="white-text" href="https://www.instagram.com/svetlana_ahmatova_chabdarova/" target="_blank">
+                        <b>svetlana_ahmatova_chabdarova</b>
                     </a>
                     <br>КБР, Село Эльбрус, ул. Лесная, д. 5
                 </p>

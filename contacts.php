@@ -27,8 +27,8 @@
                     <a href="https://www.instagram.com/instruktorelbr/" target="_blank">
                         <b>instruktorelbr</b>
                     </a> или
-                    <a href="https://www.instagram.com/svetlana_akhmatova_/" target="_blank">
-                        <b>svetlana_akhmatova_</b>
+                    <a href="https://www.instagram.com/svetlana_ahmatova_chabdarova/" target="_blank">
+                        <b>svetlana_ahmatova_chabdarova</b>
                     </a>
                 </p>
             </div>

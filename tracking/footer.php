@@ -18,8 +18,8 @@
                     <a class="white-text" href="mailto:akhmatova-85@mail.ru" target="_blank">
                         Email: <b>akhmatova-85@mail.ru</b></a>
                     <br>
-                    <a class="white-text" href="https://www.instagram.com/svetlana_akhmatova_/" target="_blank">
-                        Instagram: <b>svetlana_akhmatova_</b>
+                    <a class="white-text" href="https://www.instagram.com/svetlana_ahmatova_chabdarova/" target="_blank">
+                        Instagram: <b>svetlana_ahmatova_chabdarova</b>
                     </a>
                 </p>
 
