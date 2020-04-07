@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13bd929b-ff98-42c9-b881-3f2f0409fe88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.php" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ehkskursiya/chegemskie_vodopady/index_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/ehkskursiya/chegemskie_vodopady/index_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ehkskursiya/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/ehkskursiya/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/ehkskursiya/chegemskie_vodopady/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/ehkskursiya/chegemskie_vodopady/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/ehkskursiya/dzhyly-suu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/ehkskursiya/dzhyly-suu/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/ehkskursiya/golubye-ozera/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/ehkskursiya/golubye-ozera/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/ehkskursiya/habazskie-vodopady/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/ehkskursiya/habazskie-vodopady/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/ehkskursiya/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/ehkskursiya/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/ehkskursiya/priehlbruse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/ehkskursiya/priehlbruse/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/hotel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/hotel/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html_vertka/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/prices/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/prices/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_vertka/taxi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_vertka/taxi/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taxi/index_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/taxi/index_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracking/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/tracking/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracking/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/tracking/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="242">
+              <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -136,6 +119,7 @@
       <find>1 000</find>
       <find>Трекинг</find>
       <find>svetlana_akhmatova_</find>
+      <find>иии</find>
     </findStrings>
     <replaceStrings>
       <replace>svetlana_ahmatova_chabdarova</replace>
@@ -242,12 +226,12 @@
       <workItem from="1578146828273" duration="404000" />
       <workItem from="1584898507759" duration="1669000" />
       <workItem from="1585216436928" duration="593000" />
-      <workItem from="1586280896317" duration="229000" />
+      <workItem from="1586280896317" duration="405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10373000" />
+    <option name="totallyTimeSpent" value="10549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -265,9 +249,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.57297295" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.57204765" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1787649" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3629469" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -322,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="242">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
         </state>
       </provider>
     </entry>
