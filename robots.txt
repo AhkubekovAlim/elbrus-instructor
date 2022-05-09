@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /html_vertka/
+Disallow: /wp/
+
+User-agent: Yandex
+Disallow: /html_vertka/
+Disallow: /fancybox/
+Disallow: /wp/
+Host: elbrus-instructor.ru
