@@ -48,6 +48,17 @@
 
 <div class="container">
     <div class="section">
+
+        <h4 class="center-align">Забронировать инструктора онлайн!</h4>
+        <div id="znmst"></div>
+        <script src="https://bronirui-online.ru/widget/loader.js" type="text/javascript"></script>
+        <script type="text/javascript">window.loader.init(4110, 'znmst', 'short_service', '/booking/');</script>
+
+    </div>
+</div>
+
+<div class="container">
+    <div class="section">
         <h4 class="center-align">Инструктор в Приэльбрусье</h4>
         <p class="light">Уже много лет именно Приэльбрусье является популярным центром альпинизма, туризма, горнолыжного
             спорта,
