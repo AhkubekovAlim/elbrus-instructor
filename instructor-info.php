@@ -17,7 +17,7 @@
             <div class="col s12 m6  main-info">
                 <b>Инструктор</b> по катанию на горных лыжах и сноуборде <br>
                 на поляне <b>Азау</b>, склонах <b>Эльбруса</b> и на <b>Чегете</b>.<br>
-                Час работы - <span class="green-text text-darken-2"><b>от 2000&nbsp;р.</b></span><br>
+                Час работы - <span class="green-text text-darken-2"><b>от 3000&nbsp;р.</b></span><br>
                 <div class="divider"></div>
                 <span class="brown-text text-darken-2"><b>Прочие услуги:</b></span> <br>
                 <b>Экскурсии</b> и <b>походы</b> по Приэльбрусью и живописным уголкам Кабардино-Балкарии. <br>
