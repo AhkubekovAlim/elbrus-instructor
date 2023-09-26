@@ -81,6 +81,7 @@
             <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
             <!-- Dropdown Structure -->
             <ul id="dropdown1" class="dropdown-content">
+                <li><a href="/ehkskursiya/dzhip-tury/">Джипп-туры</a></li>
                 <li><a href="/ehkskursiya/golubye-ozera/">Голубые Озера</a></li>
                 <li><a href="/ehkskursiya/">Приэльбрусье</a></li>
                 <li><a href="/ehkskursiya/chegemskie_vodopady/">Чегемские водопады</a></li>
@@ -102,6 +103,7 @@
 </div>
 <!--mobil-menu-->
 <ul id="dropdown2" class="dropdown-content">
+    <li><a href="/ehkskursiya/dzhip-tury/">Джипп-туры</a></li>
     <li><a href="/ehkskursiya/golubye-ozera/">Голубые Озера</a></li>
     <li><a href="/ehkskursiya/">Приэльбрусье</a></li>
     <li><a href="/ehkskursiya/chegemskie_vodopady/">Чегемские водопады</a></li>
